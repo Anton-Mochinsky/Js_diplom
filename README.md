@@ -1,4 +1,5 @@
 # Дипломное задание к курсу «Продвинутый JavaScript». Retro Game
+[Ссылка на мой проект](https://anton-mochinsky.github.io/Js_diplom/)
 
 
 
